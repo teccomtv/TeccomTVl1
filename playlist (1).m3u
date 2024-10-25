@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1,TVK
+#EXTGRP:Khmer
+http://vip.local.teccomtv.com:8080/nl.m3u8?id=TVK
